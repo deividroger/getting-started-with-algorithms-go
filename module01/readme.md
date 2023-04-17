@@ -530,3 +530,5 @@ $ go run main.go < input.txt > output.txt
 In this section we will cover how to more easily read from stdin without having to type every test case every single time, how to write to standard out and save the results in a file, and along the way we will also look at different ways to make it easier to read things like integers, floats, whole lines, single words, and more.
 
 This is all meant to just make it easier if you want to go practice on sites like Google Code Jam and others that tend to use stdin and stdout for input/output of a program. I highly recommend practicing with sites like this, so I highly recommend this section 😜
+
+##### This project was cloned and added here from https://github.com/joncalhoun/algorithmswithgo.com/
